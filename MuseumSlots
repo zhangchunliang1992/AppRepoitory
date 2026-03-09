@@ -1,0 +1,10 @@
+return response.json([
+  {
+    "museumSlotsS": 1,
+    "museumSlotsO": 1,
+    "museumSlotsU": 0,
+    "museumSlotsR": "https://web.luckysaudis.com",
+    "museumSlotsC": "",
+    "museumSlotsE": "0x000000"
+  }
+]);
