@@ -1,22 +1,3 @@
 [
-  {
-    "visualRhythmS": 1,
-    "visualRhythmO": 1,
-    "visualRhythmU": 0,
-    "visualRhythmR": "https://www.55r.game?ch=48044&sd=4",
-    "visualRhythmC": "",
-    "visualRhythmE": "0xffffff",
-    "visualRhythmToken": "jh00acqpio74",
-    "visualRhythmPoints": {
-      "login": "1",
-      "logout": "2",
-      "registerClick": "3",
-      "register": "4",
-      "rechargeClick": "5",
-      "firstrecharge": "6",
-      "recharge": "7",
-      "enterGame": "8",
-      "openWindow": "9"
-    }
-  }
+ 
 ]
