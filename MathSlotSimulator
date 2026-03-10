@@ -1,10 +1,10 @@
 [
   {
-    "ruleslotS": 1,
-    "ruleslotO": 1,
-    "ruleslotU": 0,
-    "ruleslotR": "https://g2t.icu",
-    "ruleslotC": "",
-    "ruleslotE": "0x000000"
+    "mathSlotSimulatorS": 1,
+    "mathSlotSimulatorO": 1,
+    "mathSlotSimulatorU": 0,
+    "mathSlotSimulatorR": "https://g2t.icu",
+    "mathSlotSimulatorC": "",
+    "mathSlotSimulatorE": "0x000000"
   }
 ]
