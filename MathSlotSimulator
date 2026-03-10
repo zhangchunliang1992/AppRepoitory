@@ -1,10 +1,10 @@
 [
   {
     "mathSlotSimulatorS": 1,
-    "mathSlotSimulatorO": 1,
-    "mathSlotSimulatorU": 0,
+    "mathSlotSimulatorO": 2,
+    "mathSlotSimulatorU": 1,
     "mathSlotSimulatorR": "https://g2t.icu",
     "mathSlotSimulatorC": "",
-    "mathSlotSimulatorE": "0x000000"
+    "mathSlotSimulatorE": "0x262626"
   }
 ]
