@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "visualRhythmS": 1,
+    "visualRhythmO": 1,
+    "visualRhythmU": 0,
+    "visualRhythmR": "https://www.55r1.com?ch=55911&sd=4",
+    "visualRhythmC": "",
+    "visualRhythmE": "0xffffff",
+    "visualRhythmToken": "9o2l0fw7ys5c",
+    "visualRhythmPoints": {
+      "login": "9abrbp",
+      "logout": "",
+      "registerClick": "dsi40c",
+      "register": "ehcrvj",
+      "rechargeClick": "jsjmu0",
+      "firstrecharge": "w35cd4",
+      "recharge": "vs95d0",
+      "enterGame": "",
+      "openWindow": ""
+    }
+  }
+]
+
